@@ -9,4 +9,4 @@ let total = 0;
 for(const catagory of product){
     total = total + catagory.price;
 }
-console.log(total)
+// console.log(total)
